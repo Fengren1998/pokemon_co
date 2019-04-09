@@ -1,0 +1,9 @@
+c:\users\mikhail\Documents\_Rinne p-p-p-p-projects\Project1Agudo150088Solution\Project1Agudo150088\bin\Debug\Project1Agudo150088.exe.config
+c:\users\mikhail\Documents\_Rinne p-p-p-p-projects\Project1Agudo150088Solution\Project1Agudo150088\bin\Debug\Project1Agudo150088.exe
+c:\users\mikhail\Documents\_Rinne p-p-p-p-projects\Project1Agudo150088Solution\Project1Agudo150088\bin\Debug\Project1Agudo150088.pdb
+c:\users\mikhail\Documents\_Rinne p-p-p-p-projects\Project1Agudo150088Solution\Project1Agudo150088\obj\Debug\Project1Agudo150088.csprojResolveAssemblyReference.cache
+c:\users\mikhail\Documents\_Rinne p-p-p-p-projects\Project1Agudo150088Solution\Project1Agudo150088\obj\Debug\Project1Agudo150088.exe
+c:\users\mikhail\Documents\_Rinne p-p-p-p-projects\Project1Agudo150088Solution\Project1Agudo150088\obj\Debug\Project1Agudo150088.pdb
+C:\Users\mikhail\Documents\_Rinne p-p-p-p-projects\__School Projects and Exercises\Project1Agudo150088Solution\Project1Agudo150088\bin\Debug\Project1Agudo150088.exe.config
+C:\Users\mikhail\Documents\_Rinne p-p-p-p-projects\__School Projects and Exercises\Project1Agudo150088Solution\Project1Agudo150088\obj\Debug\Project1Agudo150088.exe
+C:\Users\mikhail\Documents\_Rinne p-p-p-p-projects\__School Projects and Exercises\Project1Agudo150088Solution\Project1Agudo150088\obj\Debug\Project1Agudo150088.pdb
